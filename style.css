@@ -1,0 +1,28 @@
+.main {
+    margin: auto;
+    width: 900px;
+}
+
+.text {
+    text-align: center;
+}
+
+.smol {
+    width: 500px;
+}
+
+.blue {
+    float: right;
+}
+
+.red {
+    float: right;
+}
+
+.gray {
+    float: right;
+}
+
+.gray2 {
+    float: right;
+}
